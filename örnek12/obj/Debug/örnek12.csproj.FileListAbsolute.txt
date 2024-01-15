@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\bin\Debug\örnek12.exe.config
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\bin\Debug\örnek12.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\bin\Debug\örnek12.pdb
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\obj\Debug\örnek12.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\obj\Debug\örnek12.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\obj\Debug\örnek12.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\obj\Debug\örnek12.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\obj\Debug\örnek12.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\obj\Debug\örnek12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\obj\Debug\örnek12.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla\örnek12\örnek12\obj\Debug\örnek12.pdb
